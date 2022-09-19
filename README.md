@@ -29,7 +29,7 @@
 </p>
 
 <br />
-&emsp
+&emsp;
 
 ## 🔎 Currently Investigating 🔎
 <p align="left">
