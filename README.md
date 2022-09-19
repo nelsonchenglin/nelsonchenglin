@@ -2,8 +2,8 @@
 
 🤓 I am a Full Stack Software Engineer proficient in Javascript, HTML, CSS, PostgreSQL, Express, React, and Node. I was originally pursuing a career in HR, but found my passion in coding after making a script on VBA during my time in my previous role as an Inspection Coordinator. Some of my strengths include coordination, collaboration, and communication which I have developed over two years from my previous role!
 
-🎓 I obtained a Bachelor's Degree in Sociology from the University of Binghamton - SUNY
-🎓 Furthered my education by completing Fullstack Academy's fulltime immersive software engineering program
+<p>🎓 I obtained a Bachelor's Degree in Sociology from the University of Binghamton - SUNY</p>
+<p>🎓 Furthered my education by completing Fullstack Academy's fulltime immersive software engineering program</p>
 
 ## 📫 Lets get in touch! 📫
 
