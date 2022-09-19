@@ -9,9 +9,11 @@
 
 <p>
   <a href="https://www.linkedin.com/in/nelsonchenglin/" target="blank"><img align="left" src="https://img.icons8.com/color/48/undefined/linkedin-circled--v1.png" height="30" width="30" /></a>
+  <a href="mailto:nelsonchenglin@gmail.com" target="blank"><img align="left" src="https://img.icons8.com/fluency/48/undefined/gmail-new.png"  height="30" width="30" /></a>
   </p>
-  <br />
-  &esmp;
+
+<br />
+  &emsp;
  
 ## 👨‍💻 Skills 👨‍💻
 
