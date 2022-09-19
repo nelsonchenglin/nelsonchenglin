@@ -1,6 +1,6 @@
 # :bow: Hi there! I'm Nelson! :bow:
 
-🤓 I am a Full Stack Software Engineer proficient in Javascript, HTML, CSS, PostgreSQL, Express, React, and Node. I was originally pursuing a career in HR, but found my passion in coding after making a script on VBA during my time as an Inspection Coordinator at a Global Engineering Firm, WSP! Some strong skills I have outside of software engineering include coordination, collaboration, and communication which I have developed over two years from my previous role!
+🤓 I am a Full Stack Software Engineer proficient in Javascript, HTML, CSS, PostgreSQL, Express, React, and Node. I was originally pursuing a career in HR, but found my passion in coding after making a script on VBA during my time in my previous role as an Inspection Coordinator. Some of my strengths include coordination, collaboration, and communication which I have developed over two years from my previous role!
 
 🎓 I obtained a Bachelor's Degree in Sociology from the University of Binghamton - SUNY
 🎓 Furthered my education by completing Fullstack Academy's fulltime immersive software engineering program
@@ -20,7 +20,7 @@
 <p align="left">
 <img src="https://img.icons8.com/color/48/undefined/javascript--v1.png" alt="js" align="left" width="40" height="40"/>
   <img src="https://img.icons8.com/plasticine/100/undefined/react.png" alt="react" align="left" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png" alt="redux" align="left" width="40" height="40/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png" alt="redux" align="left" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/undefined/nodejs.png" alt="node" align="left" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/undefined/postgreesql.png" alt="postgres" align="left" width="40" height="40"/>
   <img src="https://www.pngfind.com/pngs/m/136-1363736_express-js-icon-png-transparent-png.png" alt="express" align="left" width="40" height="40" />
